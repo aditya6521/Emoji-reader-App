@@ -1,0 +1,38 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.head {
+  text-align: center;
+}
+body {
+  background-color: #ec4899;
+}
+input {
+  padding: 1rem;
+  width: 60%;
+  text-align: center;
+  background-color: #f9a8d4;
+  border-bottom-left-radius: 1rem;
+  border-top-right-radius: 1rem;
+}
+span {
+  padding: 1rem;
+  background-color: #db2777;
+  border-bottom-left-radius: 2rem;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
+  border-bottom-right-radius: 2rem;
+}
+.emojiName {
+  color: #831843;
+  font-weight: bolder;
+  padding: 1rem;
+}
+h3 {
+  padding: 1rem;
+}
+h1 {
+  color: #7f1d1d;
+}
